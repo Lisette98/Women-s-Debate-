@@ -2883,12 +2883,12 @@ Image credits: unsplash.com
   background-repeat: no-repeat;
 }
 .fade-carousel .slides .slide-1 {
-  background-image: url(https://dpqe0zkrjo0ak.cloudfront.net/pfil/7336/pict_original.jpg); 
+  background-image: url( https://s3-eu-west-1.amazonaws.com/cdn.aarome.org/html-emails/images/stock1.jpeg); 
 }
 .fade-carousel .slides .slide-2 {
   background-image: url(http://pennsylvanianow.org/wp-content/uploads/2015/04/equal-pay-for-equal-work.jpg);
 }
 .fade-carousel .slides .slide-3 {
-  background-image: url(https://www.utexas.edu/lbj/sites/default/files/image/news/angelclass.jpeg);
+  background-image: url(https://dpqe0zkrjo0ak.cloudfront.net/pfil/7336/pict_original.jpg);
 }
 
