@@ -1218,7 +1218,7 @@ a.nav-order-btn, a.nav-order-btn:hover {
 	width:100%;
 	height:100%;
 	z-index:10;
-	background:rgba(0,0,0,0.9);
+	background:rgba(0,0,0,0.6);
 	-webkit-transform:scale(0);
 	-moz-transform:scale(0);
 	-ms-transform:scale(0);
@@ -1266,7 +1266,7 @@ a.nav-order-btn, a.nav-order-btn:hover {
 	width:80px;
 	height:80px;
 	text-align:center;
-	background:#1e9fb4;
+	background:#9F8ED2;
 	display:inline-table;
 	-webkit-border-radius:50%;
 	-moz-border-radius:50%;
@@ -1274,7 +1274,7 @@ a.nav-order-btn, a.nav-order-btn:hover {
 	border-radius:50%;
 }
 .port-image .mask a:hover {
-	color:#1e9fb4;
+	color:#9F8ED2;
 	background:#ffffff;
 }
 
@@ -1480,7 +1480,7 @@ a.nav-order-btn, a.nav-order-btn:hover {
 	-moz-border-radius:3px;
 	-webkit-border-radius:3px;
 	border-radius:3px;
-	background:#1e9fb4;
+	background:#9F8ED2;
 }
 .post-content .read-more-link:hover {
 	color:#ffffff;
