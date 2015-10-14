@@ -192,10 +192,12 @@ h4 {
 
 
  .link {
-  color:#000;
+  color:#fff;
 }
-a {
-  color:#000;
+
+
+ a {
+  color:#fff;
 }
   a:hover {
   color:red;
@@ -319,7 +321,7 @@ Image credits: unsplash.com
   background-image: url(http://pennsylvanianow.org/wp-content/uploads/2015/04/equal-pay-for-equal-work.jpg);
 }
 .fade-carousel .slides .slide-3 {
-  background-image: url(https://dpqe0zkrjo0ak.cloudfront.net/pfil/7336/pict_original.jpg);
+  background-image: url(http://staging.womensdebate.com/img/debate.jpg);
 }
 
 
